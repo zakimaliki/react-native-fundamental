@@ -12,7 +12,7 @@ import {
   VStack,
   Box,
 } from "native-base";
-import NativeBaseIcon from "./components/NativeBaseIcon";
+import NativeBaseIcon from "../components/NativeBaseIcon";
 import { Platform } from "react-native";
 
 // Define the config
